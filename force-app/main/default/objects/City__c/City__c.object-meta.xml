@@ -152,12 +152,13 @@
     <enableSearch>true</enableSearch>
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
+    <externalSharingModel>Private</externalSharingModel>
     <label>City</label>
-    <pluralLabel>Cities</pluralLabel>
     <nameField>
         <label>City Name</label>
         <type>Text</type>
     </nameField>
+    <pluralLabel>Cities</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

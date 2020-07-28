@@ -152,12 +152,13 @@
     <enableSearch>true</enableSearch>
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
+    <externalSharingModel>Private</externalSharingModel>
     <label>Tree</label>
-    <pluralLabel>Trees</pluralLabel>
     <nameField>
         <label>Tree Name</label>
         <type>Text</type>
     </nameField>
+    <pluralLabel>Trees</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

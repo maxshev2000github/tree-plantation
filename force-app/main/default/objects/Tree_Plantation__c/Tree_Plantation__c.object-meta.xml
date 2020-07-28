@@ -152,13 +152,14 @@
     <enableSearch>true</enableSearch>
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
+    <externalSharingModel>ControlledByParent</externalSharingModel>
     <label>Tree Plantation</label>
-    <pluralLabel>Tree Plantations</pluralLabel>
     <nameField>
         <displayFormat>Tree-{000}</displayFormat>
         <label>Tree Number</label>
         <type>AutoNumber</type>
     </nameField>
+    <pluralLabel>Tree Plantations</pluralLabel>
     <searchLayouts/>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
