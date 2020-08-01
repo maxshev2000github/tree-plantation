@@ -3,8 +3,8 @@ import { ShowToastEvent } from 'lightning/platformShowToastEvent';
 
 export default class NewTreePlantation extends LightningElement {
 
-    @track recordId;
-    @track showForm = false;
+    recordId;
+    showForm = false;
 
     recordNewPlantation(){
         this.showForm = true;
