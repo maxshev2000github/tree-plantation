@@ -16,6 +16,9 @@
             ],
             "c/treePlantationExplorer": [
                 "treePlantationExplorer/treePlantationExplorer.js"
+            ],
+            "c/meetingRoom": [
+                "meetingRoom/meetingRoom.js"
             ]
         },
         "experimentalDecorators": true
