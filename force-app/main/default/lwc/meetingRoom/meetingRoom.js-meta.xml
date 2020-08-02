@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>48.0</apiVersion>
-<<<<<<< HEAD
     <isExposed>true</isExposed>
     <targets>
     <target>lightning__AppPage</target>
@@ -16,7 +15,4 @@
     <target>lightningSnapin__ChatMessage</target> -->
     </targets>
     
-=======
-    <isExposed>false</isExposed>
->>>>>>> 304d1902731e5bd7d7142a9f1d2a998fff196818
 </LightningComponentBundle>
