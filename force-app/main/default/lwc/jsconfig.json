@@ -19,6 +19,9 @@
             ],
             "c/meetingRoom": [
                 "meetingRoom/meetingRoom.js"
+            ],
+            "c/meetingRooms": [
+                "meetingRooms/meetingRooms.js"
             ]
         },
         "experimentalDecorators": true
