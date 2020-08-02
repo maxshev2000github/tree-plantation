@@ -2,6 +2,15 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
+            "c/meetingRoom": [
+                "meetingRoom/meetingRoom.js"
+            ],
+            "c/meetingRooms": [
+                "meetingRooms/meetingRooms.js"
+            ],
+            "c/newTreePlantation": [
+                "newTreePlantation/newTreePlantation.js"
+            ],
             "c/pubsub": [
                 "pubsub/pubsub.js"
             ],
@@ -16,12 +25,6 @@
             ],
             "c/treePlantationExplorer": [
                 "treePlantationExplorer/treePlantationExplorer.js"
-            ],
-            "c/meetingRoom": [
-                "meetingRoom/meetingRoom.js"
-            ],
-            "c/meetingRooms": [
-                "meetingRooms/meetingRooms.js"
             ]
         },
         "experimentalDecorators": true

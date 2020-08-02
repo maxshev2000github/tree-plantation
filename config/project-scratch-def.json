@@ -5,7 +5,7 @@
   "features": [],
   "settings": {
     "orgPreferenceSettings": {
-      "s1DesktopEnabled": true
+      "enableS1DesktopEnabled": true
     }
   }
 }
